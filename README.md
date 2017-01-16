@@ -1,0 +1,5 @@
+# Dress decorator
+
+## License
+
+MIT
